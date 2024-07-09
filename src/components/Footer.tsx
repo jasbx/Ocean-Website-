@@ -57,7 +57,7 @@ const Footer = () => {
       {/* Copyrights */}
       <div className="container border-t border-slate-700">
         <p className="capitalize pt-4 text-center lg:text-start">
-          {`© ${currentYear} ocean, inc. all rights reserved.`}
+          {`© 2024 ocean, Create by Jassim Dev.`}
         </p>
       </div>
       {/* Copyrights */}
